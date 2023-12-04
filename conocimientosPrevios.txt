@@ -1,0 +1,4 @@
+- BASIC, como base, aprendizaje autodidacta en la niñez
+- QBASIC, C++, TURBO PASCAL, VISUAL C. Conforme avancé en los estudios de ingeniería industrial. EL proyecto fué una aplicación de cálculo en Visual C.
+- Java, curso que no pude completar. Era por el INEM y encontre empleo antes (no de programador).
+- Xamarin Forms, Android Studio. De forma autodidacta, para hacer aplicaciones sencillas de uso personal en el trabajo y de ocio.

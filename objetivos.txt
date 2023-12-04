@@ -1,0 +1,4 @@
+- Aprender HTML y CSS
+- Aprender el manejo de GIT, GitHub, GitKraken y GIT por consola
+- Aprender javascript, Angular y NODEJS
+- Aprender a enlazar con las BBDD, completar aplicaciones
